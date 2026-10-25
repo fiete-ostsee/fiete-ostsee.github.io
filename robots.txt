@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /guides/
+Disallow: /dash/
+Sitemap: https://fiete-ostsee.github.io/sitemap.xml
